@@ -31,7 +31,7 @@ const FileUpload = () => {
         onChange={handleFileChange}
         className="mb-4 p-2 border border-gray-300"
       />
-      <button onClick={handleUpload} className="bg-blue-500 text-white p-2">
+      <button onClick={handleUpload} className=" text-black p-2">
         Upload
       </button>
     </div>
